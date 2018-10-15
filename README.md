@@ -1,8 +1,10 @@
 # ROM: Representations of Meaning
 
-This is a repository contains a set file structure for submitting the course-work.
+This is a repository contains a set file structure for submitting your course-work.
 
-Use this file for any notes related to your projects, including your individual course plan.
+See `library/github-instructions.md` for a description how to use this repository.
+
+Use this file for any notes related to your project, including your individual course plan.
 
 
 ## Course plan
