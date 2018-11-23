@@ -9,4 +9,4 @@ Use this file for any notes related to your project, including your individual c
 
 ## Course plan
 
-  - 
+  - Task 1
